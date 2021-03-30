@@ -1,5 +1,5 @@
 import React from 'react';
-import WebApp from './apps/web/Home.js'
+import WebApp from './apps/web/App.js'
 import {
   StyleSheet,
   View,
